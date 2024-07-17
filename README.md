@@ -1,6 +1,6 @@
 # Activity Report 2024
 
-# [10-7-2024] 1st Day of Guru Nanak Dev Engineering Collage
+# [10-7-2024] Day 1 ['Guru Nanak Dev Engineering Collage']
 
 ### Beginning of Our Journey
 

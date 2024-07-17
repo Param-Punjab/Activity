@@ -143,3 +143,21 @@ Mr. Pancham brought his unique flair to the topic of communication skills, start
 # [17-7-2024] Day 6 
 
 
+### Maths Class with Sukhminder Singh
+- **Topic: Differentiation**
+  - Sukhminder Singh conducted our maths class today, focusing extensively on differentiation.
+  - He covered the topic comprehensively from beginning to end.
+  - The session helped clarify my understanding of differentiation and refreshed my knowledge from my 10+2 maths classes.
+  - Overall, it was an amazing and insightful session.
+
+### Universal Human Values Class
+- **Discussion Highlights**
+  - In our universal human values class, we engaged in a captivating discussion about human existence and the need for harmony between body and being.
+  - Explored how our physical needs intertwine with our desires and the importance of finding balance for our overall well-being.
+  - Discussed concepts of self-organization and self-exploration, emphasizing the role of personal choices in fostering growth and development.
+
+### CodeGNE Meeting
+- **Learning and Participation**
+  - Attended a CodeGNE meeting where I learned about the Frappe builder.
+  - The session was motivational, encouraging active participation and learning.
+  - Enrolled in Workshop 2 focusing on Unix shell, expanding my knowledge and skills in this area.

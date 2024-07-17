@@ -99,3 +99,47 @@ Mr. Sony Goyal's session was a captivating journey into effective planning and p
 Mr. Pancham brought his unique flair to the topic of communication skills, starting with a captivating story that set the stage for an enlightening session. His expertise in understanding facial expressions, gestures, and the intricacies of effective communication was commendable. Mr. Pancham's interactive approach made learning about communication engaging and relatable. He shared practical insights on how to interpret non-verbal cues effectively, enhancing our understanding of interpersonal dynamics. Beyond theory, Mr. Pancham shared anecdotes and lessons from his leadership in various societies, inspiring us with his firsthand experiences. His session left a lasting impression, empowering us to improve our communication skills and navigate social interactions with confidence.
 
 # [16-7-2024] Day 5 
+
+### Coding Class Experience
+- **Engaging Instructor**
+  - Our instructor was excited and knowledgeable.
+  - He made learning Github fun and easy for everyone.
+  - His clear instructions boosted our confidence.
+
+- **Learning Github**
+  - Step-by-step learning made Github understandable.
+  - Practical demonstrations clarified complex ideas.
+
+- **Feeling Confident**
+  - Practicing with guidance made us more confident in using Github.
+  - We enjoyed learning together and working as a team.
+
+### English Activity Class Experience
+- **Dynamic and Challenging**
+  - The class challenged us to think critically.
+  - It was engaging and encouraged problem-solving.
+
+- **Competitive Quiz**
+  - Teams competed in 5 rounds, testing knowledge and skills.
+  - We learned new vocabulary and idioms in a fun way.
+
+- **Teamwork and Camaraderie**
+  - Collaboration among teammates fostered camaraderie.
+  - We tackled challenges together and supported each other.
+
+### Second English Activity Experience
+- **Testing Knowledge**
+  - The quiz focused on general knowledge and daily affairs.
+  - Teams were free to choose, and I was in Team A.
+
+- **Building Bonds**
+  - Despite not winning, we built strong bonds and made friends.
+  - Teamwork and support were highlights of the experience.
+
+- **Valuable Learning**
+  - The activity emphasized teamwork and participation.
+  - It was a rewarding experience in building skills and relationships.
+ 
+# [17-7-2024] Day 6 
+
+

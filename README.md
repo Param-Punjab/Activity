@@ -69,7 +69,7 @@
 
 - Learned how to use Canva for creating designs.
 - Created an Instagram post size for Guru Nank Dev Engineering College & Cosmic Club registration.
-- ![The Project](/Image/canva_project.jpg)
+![The Project](/Image/canva_project.jpg)
 
 ### Mathematics Session with Neeraj Kumar
 

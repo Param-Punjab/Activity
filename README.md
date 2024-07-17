@@ -63,4 +63,23 @@
 - Uploaded the webpage to my GitHub repository [Param-Punjab].
 - [Click here to visit my profile](https://param-punjab.github.io)
 
+# [12-7-2024] Day 3
 
+### Canva Applicatoin
+
+- Learned how to use Canva for creating designs.
+- Created an Instagram post size for Guru Nank Dev Engineering College & Cosmic Club registration.
+- [The Project](/Image/canva_project.jpg)
+
+### Mathematics Session with Neeraj Kumar
+
+- Neeraj Kumar taught us mathematics during the induction program.
+- Reviewed concepts from 10+2 and explored a unique approach to understanding Differentiation.
+- Introduced new concepts with clarity and practical examples.
+- Provided questions for practical application of formulas and encouraged questions and doubts.
+- Overall, his session was engaging and informative.
+
+### CodeGNE Meeting in English Laboratory
+
+- Held a meeting in the English Laboratory.
+- Clarified doubts about creating a GitHub profile, making webpage using Markdown languages also how to upload the webpage to GitHub repository.

@@ -35,7 +35,7 @@
 
 ### Societies and Clubs
 
--Introduction to various national and international societies and clubs.
+- Introduction to various national and international societies and clubs.
 
 ### Facilities
 

@@ -2,4 +2,55 @@
 
 # [11-7-2024] 1st Day of Guru Nanak Dev Engineering Collage
 
-Today marked the beginning of our journey at Guru Nanak Dev Engineering College. We kicked off the day with a prayer at the college Gurudwara Sahib, which added a special touch to our start. Faculty members, including the college's former principal who is also an alumnus, shared their wisdom and encouraged us. They emphasized the importance of staying clam and attentive with the message, "no tension and full attention". Additionally, several alumni recounted their experiences, warning us about common mistakes made during their collage days. Overall, we had a wonderful first day, filled with valuable insights and knowledge.
+### Beginning of Our Journey
+
+- Today marked the start of our journey at Guru Nanak Dev Engineering College.
+
+### Special Start
+
+- We began the day with a prayer at the college Gurudwara Sahib.
+- This prayer added a special touch to our start.
+
+### Faculty Guidance 
+
+- Faculty members, including the former principal who is also an alummus, shared their wisdom and encouragement.
+- They emphasized the message, "no tension and full attention."
+
+### Alumni Insights
+
+- Several alumni recounted their experiences.
+- They warned us about common mistakes made during thier college days.
+
+### Conclusion
+
+- Overall, we had a wonderful first day
+- That day was filled with valuable insights and knowledge.
+
+# [12-7-2024] Day 2
+
+### Introduction to Guru Nanak Dev Engineering Collage
+
+- Professors provided detailed information about the collage.
+- They motivated us with their encouraging words.
+
+### Societies and Clubs
+
+-Introduction to various national and international societies and clubs.
+
+### Facilities
+
+- Number of canteens and playgrounds at the college.
+- Information on hostel facilities.
+
+### Activities and Events
+
+- Ongoing activities within the college.
+- Details about upcoming events.
+
+### Scholarship Schemes
+
+- Overview of various scholarship schemes offered by the college.
+
+### Presentation
+
+- Information was conveyed through engaging PowerPoint presentations.

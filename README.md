@@ -1,6 +1,6 @@
 # Activity Report 2024
 
-# [11-7-2024] 1st Day of Guru Nanak Dev Engineering Collage
+# [10-7-2024] 1st Day of Guru Nanak Dev Engineering Collage
 
 ### Beginning of Our Journey
 
@@ -26,7 +26,7 @@
 - Overall, we had a wonderful first day
 - That day was filled with valuable insights and knowledge.
 
-# [12-7-2024] Day 2
+# [11-7-2024] Day 2
 
 ### Introduction to Guru Nanak Dev Engineering Collage
 
@@ -54,3 +54,5 @@
 ### Presentation
 
 - Information was conveyed through engaging PowerPoint presentations.
+
+

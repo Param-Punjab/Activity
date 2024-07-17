@@ -55,4 +55,12 @@
 
 - Information was conveyed through engaging PowerPoint presentations.
 
+### CodeGNE Telegram Group
+
+- Todya, I joined the CodeGNE Telegram group.
+- Learned about Markdown language through the group.
+- Created a webpage as my profile using Markdown.
+- Uploaded the webpage to my GitHub repository [Param-Punjab].
+- [Click here to visit my profile](https://param-punjab.github.io)
+
 

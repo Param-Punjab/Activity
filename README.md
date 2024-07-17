@@ -83,3 +83,19 @@
 
 - Held a meeting in the English Laboratory.
 - Clarified doubts about creating a GitHub profile, making webpage using Markdown languages also how to upload the webpage to GitHub repository.
+
+# [15-7-2024] Day 4
+
+### Dr. Pyarelal Garg
+
+Dr. Pyerelal Garg graced us with his profound wisdom during his session, leaving an indelible mark on our minds. He emphasized the dual importance of theoretical knowledge and practical application in education, urging us to embrace both aspects wholeheartedly. Dr.Garg passionately advised us to eliminate all uncertainties from our lives and maintain unwavering focus our goals. He underscored the virtues of integrity, humility, and being true to our word, emphasizing that these qualities are essential for personal and professional growth. His belief that education is an eternal journey resonated deeply, encouraging us to continuously learn and evolve. Dr. Garg concluded his speech with a poignant message on self-reflection and the importance of staying true to oneself amidst external influences. His words of wisdom will forever guide us on our educational and personal paths.
+
+### Sony Goyal 
+
+Mr. Sony Goyal's session was a captivating journey into effective planning and personal excellence in engineering education. Using his trademark mantra "One Two Ka Four," he engaged the audience and challenged us to rethink how we approach our academic pursuits. Mr. Goyal questioned the traditional term "non-medical," advocating instead for "science stream," symbolizing a broader perspective on our educational choices. He passionately stressed the significance of giving our all in every ndeavor and advised us to focus on one task at a time for optimal results. Mr. Goyal's message extended beyond mere academic diligence; he urged us to learn with passion and dedication, not just with our minds but with our hearts and souls. His session was not only informative but also entertaining, leaving an enduring impact on everyone present. We will remember and apply his insights throughout our engineering journey.
+
+### Mr. Pancham
+
+Mr. Pancham brought his unique flair to the topic of communication skills, starting with a captivating story that set the stage for an enlightening session. His expertise in understanding facial expressions, gestures, and the intricacies of effective communication was commendable. Mr. Pancham's interactive approach made learning about communication engaging and relatable. He shared practical insights on how to interpret non-verbal cues effectively, enhancing our understanding of interpersonal dynamics. Beyond theory, Mr. Pancham shared anecdotes and lessons from his leadership in various societies, inspiring us with his firsthand experiences. His session left a lasting impression, empowering us to improve our communication skills and navigate social interactions with confidence.
+
+# [16-7-2024] Day 5 

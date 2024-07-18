@@ -161,3 +161,89 @@ Mr. Pancham brought his unique flair to the topic of communication skills, start
   - Attended a CodeGNE meeting where I learned about the Frappe builder.
   - The session was motivational, encouraging active participation and learning.
   - Enrolled in Workshop 2 focusing on Unix shell, expanding my knowledge and skills in this area.
+ 
+# [18-7-2024] Day 7
+
+### UHV Class: Understanding Harmony in the Family
+
+- **Recap and New Chapter**
+  - Today in our UHV class, our teacher started with a quick recap of the last class and introduced a new chapter titled "Understanding Harmony in the Family."
+
+- **5 Important Aspects to Understand**
+  1. **Relationships Between Individuals**
+     - How people relate to each other and interact.
+
+  2. **Emotional Dynamics**
+     - Recognizing the feelings involved in relationships.
+
+  3. **Recognition of Feelings**
+     - Understanding and acknowledging these emotions.
+
+  4. **Fulfillment of Emotions**
+     - Achieving mutual happiness through meeting emotional needs.
+
+  5. **Evaluation of Fulfillment**
+     - Assessing how well emotions are met and evaluated.
+
+- **Types of Feelings**
+  1. Love
+  2. Blind Trust
+  3. Care
+  4. Respect
+  5. Guidance
+  6. Affection
+  7. Reverence
+  8. Glory
+  9. Gratitude
+
+- **Detailed Insights**
+  - Our teacher elaborated on:
+    1. Trust: Ensuring mutual happiness and prosperity.
+    2. Respect: Evaluating it correctly and its minimal requirements.
+    3. Affection: Connecting emotionally with others.
+    4. Care: Feeling responsible and committed.
+    5. Guidance: Responsibilities, development, and understanding.
+
+- **Difference Between Response and Reaction**
+  - Response: Positive actions in interactions.
+  - Reaction: Negative responses to situations.
+
+- **Justice in Relationships**
+  - Understanding fairness and equity in how we treat others.
+
+### Peer Interaction Class: College Insights
+
+- **Senior Advice**
+  - Advised us to enjoy the first year while maintaining a balance between fun and study for stability.
+
+- **College Website Navigation**
+  - Explored tabs for departments, hostel life experiences, scholarship applications, and bus pass procedures.
+
+### Auditorium Session: NCC and NSS
+
+- **NCC Introduction by Dr. Harwinder Singh**
+  - Information session on National Cadet Corps (NCC).
+
+- **NSS by Er. Jasvir Singh Grewal**
+  - Overview of National Service Scheme (NSS) activities and opportunities.
+
+### CodeGNE Meeting: Command Line and Bash Scripting
+
+- **Introduction to Command Line Usage**
+  - Overview of commands:
+    - `ssh` (Secure Shell)
+    - `bash` (Bourne Again Shell)
+
+- **Bash Scripting Basics**
+  - Commands explained:
+    - `ls`: Lists files and directories.
+    - `mkdir`: Creates directories.
+    - `cd`: Changes directory.
+    - `pwd`: Prints current working directory.
+    - `cd -`: Returns to the previous directory.
+
+- **User Management and Security**
+  - Instructions on adding users with `sudo adduser`.
+  - Changing passwords with `passwd`.
+  - Downloading software using `wget`.
+  - Checking command history with `history`.
